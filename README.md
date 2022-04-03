@@ -54,6 +54,14 @@ Listar pods:
 
 - `kubectl get pods`
 
+Listar tudo:
+
+- `kubectl get all`
+
+Deletar manifesto do cluste:
+
+- `kubectl delete -f deployment.yml`
+
 Deletar cluster:
 
 - `k3d cluster delete meucluster`
