@@ -61,4 +61,4 @@ jobs:
         with:
           images: ${{secrets.DOCKERHUB_USER}}/rotten-potatoes:${{ github.run_number }}
           manifests: |
-            k8s/deployment.yaml
+            k8s/deployment.yml
