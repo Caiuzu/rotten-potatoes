@@ -84,3 +84,6 @@ Exemplo:
 NAME                 TYPE           CLUSTER-IP      EXTERNAL-IP      PORT(S)        AGE
 service/web          LoadBalancer   XX.XXX.XX.XX    000.00.000.000   80:30000/TCP   33s
 ```
+
+# Configurando pipeline Github Actions
+
